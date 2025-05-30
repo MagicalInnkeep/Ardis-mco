@@ -8,6 +8,10 @@
 	"engines": {
 		"vscode": "^1.19.0"
 	},
+	"main": "./extension.js",
+	"activationEvents": [
+  		"onLanguage:mco"
+	],
 	"categories": [
 		"Languages"
 	],
