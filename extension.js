@@ -1,6 +1,7 @@
 const vscode = require('vscode');
 
 // Definition of commands
+const commandDocs = require('./syntaxes/command-docs.json');
 const commandDocs = {
   "WAIT": 'WAIT(seconds [;"Condition" [;"Message"]]) : Ardis OPTIMIZER application sleeps at most "seconds", or until Condition returns true or ESC is pressed.'
 };
