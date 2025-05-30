@@ -34,6 +34,11 @@ Frequently used code
 
 ## Release Notes
 
+### 0.3.0
+* Added recognition to BREAKEND
+* Added command description while hovering for standard commands
+
+
 ### 0.2.2
 
 * Added lost snippets
