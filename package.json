@@ -2,7 +2,7 @@
 	"name": "mco",
 	"displayName": "Ardis scripting language",
 	"description": "Ardis macro language",
-	"version": "0.2.2",
+	"version": "0.3",
 	"publisher": "Ardis",
 	"icon": "icon.png",
 	"engines": {
@@ -51,10 +51,5 @@
 				"path": "./snippets/mco.json"
 			}
 		]
-	},
-	"__metadata": {
-		"id": "79467570-31a9-414e-a2a6-7796a07d37cd",
-		"publisherId": "959ccc1e-7ef3-465b-b0f3-694473360b2b",
-		"publisherDisplayName": "Kenny De Klerck"
 	}
 }
